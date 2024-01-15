@@ -1,8 +1,14 @@
 # reservify
-//Version 0.0.1
+# Current Version: Version 0.0.1
+
 Reservify is a ReactJS web app simplifying appointment management. Users input details, choose dates, and set times for reservations. It generates .ics files for easy calendar integration. With an intuitive interface, Reservify ensures efficient scheduling for a seamless user experience.
 
-##How to run the program:
+# Features:
+# 0.0.1 :
+    1. User can input details like Name, Email, Location, Date , start time and end time.
+    2. Based on the data provided, Program will generate an iCalendar file for calendar integration.
+
+# How to run the program:
 
 1. Clone this repository into your local machine using `git clone https://github.com/
 2. Download the libraries in your local machine using 'npm install library_name'
