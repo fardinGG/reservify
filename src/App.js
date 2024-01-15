@@ -10,7 +10,8 @@ function App() {
     <div className="App">
     <div id="header">
       <nav>
-      <img src="/images/logo.PNG" class="logo" alt="logo"></img>
+        
+      <img src="ig.png" class="logo" alt="logo" />
                 <ul id="sidemenu">
                     <li><a href="https://fardinGG.github.io">Home</a></li>
                     <li><a href="#about">About</a></li>
