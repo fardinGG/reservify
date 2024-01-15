@@ -12,7 +12,7 @@ function App() {
       <nav>
       <img src="/images/logo.PNG" class="logo" alt="logo"></img>
                 <ul id="sidemenu">
-                    <li><a href="#header">Home</a></li>
+                    <li><a href="https://fardinGG.github.io">Home</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#services">Services</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
