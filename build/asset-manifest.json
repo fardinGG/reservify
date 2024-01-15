@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reservify/static/css/main.898a2276.css",
+    "main.js": "/reservify/static/js/main.bf323dde.js",
+    "static/js/787.ee62b761.chunk.js": "/reservify/static/js/787.ee62b761.chunk.js",
+    "index.html": "/reservify/index.html",
+    "main.898a2276.css.map": "/reservify/static/css/main.898a2276.css.map",
+    "main.bf323dde.js.map": "/reservify/static/js/main.bf323dde.js.map",
+    "787.ee62b761.chunk.js.map": "/reservify/static/js/787.ee62b761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898a2276.css",
+    "static/js/main.bf323dde.js"
+  ]
+}
