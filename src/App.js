@@ -11,7 +11,7 @@ function App() {
     <div id="header">
       <nav>
         
-      <img src="ig.png" class="logo" alt="logo" />
+      <a href="https://fardinGG.github.io"><img src="ig.png" class="logo" alt="logo" /></a>
                 <ul id="sidemenu">
                     <li><a href="https://fardinGG.github.io">Home</a></li>
                     <li><a href="https://fardingg.github.io/#about">About</a></li>
